@@ -3,6 +3,9 @@
 ![leduckhai github stats](https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=default&count_private=true)
 ![leduckhai language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leduckhai&show_icons=true&theme=default&&langs_count=10)
 
+<p align="center"> 
+      <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Hackerrank%20Top%20Germany.jpg" width="400"> 
+</p>
 
 <!--
 **leduckhai/leduckhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
