@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![leduckhai github stats](https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=algolia&count_private=true)
-![leduckhai language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leduckhai&show_icons=true&theme=algolia&&langs_count=10)
+![leduckhai github stats](https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=default&count_private=true)
+![leduckhai language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leduckhai&show_icons=true&theme=default&&langs_count=10)
 
 
 <!--
