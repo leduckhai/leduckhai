@@ -7,23 +7,10 @@
 <img align="left" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
  
 <img height="300" width="500" align="left" src="https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=default&count_private=true">
+
 <img height="300" width="300" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leduckhai&show_icons=true&theme=default&&langs_count=10">
 
-<p align="center"> 
-      <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Hackerrank%20Top%20Germany.jpg" width="400"> 
-</p>
+<img width="400" align="center" src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Hackerrank%20Top%20Germany.jpg">
 
-<!--
-**leduckhai/leduckhai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/bile.datsmie/)
+[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/bile_datsmie/)
