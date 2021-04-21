@@ -1,4 +1,4 @@
-### Eyo my comrades! I'm Bi Lê 👋
+### Eyo my comrades👋 I'm Bi Lê 
 
 <p align="center">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=leduckhai.leduckhai"> 
