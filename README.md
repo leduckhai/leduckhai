@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Hackerrank%20Top%20Germany.jpg" width="400"/> <img src="https://github.com/leduckhai/leduckhai/blob/main/thukhoa.jpg" width="400"/>
+  <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Hackerrank%20Top%20Germany.jpg" height="370" width="400"/> <img src="https://github.com/leduckhai/leduckhai/blob/main/thukhoa.jpg" height="370" width="400"/>
 </p>
 
 #### Airstrike me at:
