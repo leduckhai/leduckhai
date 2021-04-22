@@ -1,5 +1,9 @@
 ### Eyo my comrades👋 I'm Bi Lê 
 
+I'm currently Biomedical Engineering student at FH Aachen University in Germany. 
+
+I live in Ho Chi Minh City, Vietnam and Toronto, Canada.
+
 <p align="center">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=leduckhai.leduckhai"> 
   <img align="left" alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
