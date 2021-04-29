@@ -2,7 +2,7 @@
 
 I'm currently a Biomedical Engineering student at FH Aachen University in Germany. 
 
-But I live in Ho Chi Minh City, Vietnam and Toronto, Canada.
+I live in Ho Chi Minh City, Vietnam and Toronto, Canada.
 
 <p align="center">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=leduckhai.leduckhai"> 
