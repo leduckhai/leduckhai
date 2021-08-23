@@ -1,6 +1,6 @@
 ### Eyo my comrades👋 I'm Bi Lê 
 
-I'm currently a Biomedical Engineering Student at FH Aachen University and AI Research Intern at RWTH Aachen University in Germany. 
+I'm currently a Biomedical Engineering Student at FH Aachen University and a Bachelor Thesis Student at RWTH Aachen University in Germany. 
 
 I live in Ho Chi Minh City - Vietnam, Aachen - Germany and Toronto - Canada.
 
