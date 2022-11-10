@@ -12,9 +12,9 @@ I live in Ho Chi Minh City - Vietnam, Aachen - Germany and Toronto - Canada.
 </p>
 
 -------------------
-#<p align="center">
-#  <img src="https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=default&count_private=true" width="500"/> <img src="https://github-readme-#stats.vercel.app/api/top-langs/?username=leduckhai&show_icons=true&theme=default&&langs_count=10" width="300"/>
-#</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=default&count_private=true" width="500"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leduckhai&show_icons=true&theme=default&&langs_count=10" width="300"/>
+</p>
 
 #<p align="center">
 #  <img src="https://github.com/leduckhai/Awesome-Competitive-Programming/blob/main/Data%20Bank/Hackerrank%20Top%20Germany.jpg" height="370" width="400"/> <img #src="https://github.com/leduckhai/leduckhai/blob/main/thukhoa.jpg" height="370" width="400"/>
