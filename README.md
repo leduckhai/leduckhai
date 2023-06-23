@@ -19,6 +19,6 @@ I live in Ho Chi Minh City - Vietnam, Aachen - Germany and Toronto - Canada.
 </p>
 
 #### Airstrike me at:
-[<img align="left" alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/bile.datsmie/)
-[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/bile_techmonzter/)
+[<img align="left" alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>](https://www.facebook.com/techmonzter/)
+[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/_techmonzter_/)
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/khaileduc/)
