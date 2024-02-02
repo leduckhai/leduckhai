@@ -1,4 +1,4 @@
-### Eyo my comrades👋 I'm Bi Lê 
+### Eyo my comrades👋 I'm Khai
 
 I'm currently pursuing MASc Biomedical Engineering at University of Toronto.
 Before that, I was at FH Aachen University, RWTH Aachen University, and Vietnam National University Ho Chi Minh City. 
