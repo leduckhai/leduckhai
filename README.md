@@ -3,7 +3,7 @@
 I'm currently pursuing MASc Biomedical Engineering at University of Toronto.
 Before that, I was at FH Aachen University, RWTH Aachen University, and Vietnam National University Ho Chi Minh City. 
 
-I lived in Ho Chi Minh City - Vietnam, spent 7 years for bachelor in Germany, and now in Toronto - Canada.
+I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toronto - Canada.
 
 <!---
 <p align="center">
