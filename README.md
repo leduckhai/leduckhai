@@ -9,7 +9,7 @@ I lived in Ho Chi Minh City - Vietnam until 18, spent 7 years in Germany, and no
 
 1. I'm proud to be a genious prisoner at Nguyễn Khuyến Prison
    
-2. I loved a girl for 10 years, and she's still the only one. She got a prize in Miss Vietnam.
+2. I loved a girl for 10 years, and she's still the only one. She got a prize in Miss Vietnam (Hoa hậu Việt Nam).
 
 
 <!---
