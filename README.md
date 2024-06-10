@@ -1,7 +1,7 @@
 ### Eyo my comrades👋 I'm Khai
 
 I'm currently pursuing MASc Biomedical Engineering at University of Toronto.
-Before that, I was at FH Aachen University, RWTH Aachen University, Vietnam National University Ho Chi Minh City and Nguyễn Khuyến Prison. 
+Before that, I was at FH Aachen University, RWTH Aachen University, and Vietnam National University Ho Chi Minh City. I'm proud to be a genious prisoner at Nguyễn Khuyến Prison. 
 
 I lived in Ho Chi Minh City - Vietnam until 18, spent 7 years in Germany, and now in Toronto - Canada.
 
