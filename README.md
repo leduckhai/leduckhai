@@ -7,11 +7,18 @@ I lived in Ho Chi Minh City - Vietnam until 18, spent 7 years in Germany, and no
 
 **Fun fucked about me**:
 
-1. I'm proud to be a genious prisoner at Nguyễn Khuyến Prison
+1. I'm proud to be a prisoner at Nguyễn Khuyến Prison.
    
-2. I loved a girl for 10 years, and she's still the only one. She got a prize in Miss Vietnam (Hoa hậu Việt Nam).
+2. I used to love a girl for 10 years, and she's still the only one till now. She was in top X of Miss Vietnam (Hoa hậu Việt Nam).
 
+3. My estimated IQ was ~120-130, still lower than Einstein and BTS RM.
 
+4. Most people think I'm a highschool student. Thanks mom for giving me a cute face!
+
+5. I burned my school when I was in grade 7.
+
+6. I have never been angry to anyone.
+    
 <!---
 <p align="center">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=leduckhai.leduckhai"> 
