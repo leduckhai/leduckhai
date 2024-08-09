@@ -11,7 +11,7 @@ I lived in Ho Chi Minh City - Vietnam until 18, spent 7 years in Germany, and no
    
 2. I used to love a girl for 10 years, and she's still the only one till now. She was in top X of Miss Vietnam (Hoa hậu Việt Nam).
 
-3. My estimated IQ was ~120-130, still lower than Einstein and BTS RM.
+3. My estimated IQ was ~120-130.
 
 4. Most people think I'm a highschool student. Thanks mom for giving me a cute face!
 
