@@ -2,6 +2,7 @@
 
 I'm currently pursuing MASc Biomedical Engineering at University of Toronto.
 Before that, I was at FH Aachen University, RWTH Aachen University, and Vietnam National University Ho Chi Minh City.  
+My research spans 3 pillars of medical AI: AI Speech/Language Processing, Multimodal Large Language Models, Machine Learning.
 
 I lived in Ho Chi Minh City - Vietnam until 18, spent 7 years in Germany, and now in Toronto - Canada.
 
@@ -18,7 +19,15 @@ I lived in Ho Chi Minh City - Vietnam until 18, spent 7 years in Germany, and no
 5. I burned my school when I was in grade 7.
 
 6. I have never been angry to anyone.
-    
+
+**Recent news**:
+
+09.2024 - New arxiv preprint released!: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074)
+
+08.2024 - New arxiv preprint released!: [wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech](https://arxiv.org/abs/2408.04174)
+
+07.2024 - New arxiv preprint released!: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054)
+
 <!---
 <p align="center">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=leduckhai.leduckhai"> 
