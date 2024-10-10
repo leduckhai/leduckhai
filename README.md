@@ -6,7 +6,7 @@ My research spans 3 pillars of medical AI: AI Speech/Language Processing, Multim
 
 I lived in Ho Chi Minh City - Vietnam until 18, spent 7 years in Germany, and now in Toronto - Canada.
 
-**Fun fucked about me**:
+**Fun facts about me**:
 
 1. I'm proud to be a prisoner at Nguyễn Khuyến Prison.
    
@@ -20,7 +20,7 @@ I lived in Ho Chi Minh City - Vietnam until 18, spent 7 years in Germany, and no
 
 6. I have never been angry to anyone.
 
-**Recent news**:
+### Recent news
 
 09.2024 - New arxiv preprint released!: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074)
 
