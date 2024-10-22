@@ -4,7 +4,7 @@ I'm currently pursuing MASc Biomedical Engineering at University of Toronto.
 Before that, I was at FH Aachen University, RWTH Aachen University, and Vietnam National University Ho Chi Minh City.   
 My research spans 3 pillars of medical AI: AI Speech/Language Processing, Multimodal Large Language Models, Machine Learning.
 
-Fortunate to be supervised by: [Prof. Hermann Ney](https://scholar.google.de/citations?user=6C8rf-0AAAAJ&hl=de), [PD Ralf Schlüter](https://scholar.google.de/citations?user=JmuAC9oAAAAJ&hl=de), [Prof. Anh Totti Nguyen](https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en)
+I feel grateful to be supervised by: [Prof. Hermann Ney](https://scholar.google.de/citations?user=6C8rf-0AAAAJ&hl=de), [PD Ralf Schlüter](https://scholar.google.de/citations?user=JmuAC9oAAAAJ&hl=de), [Prof. Anh Totti Nguyen](https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en)
 
 I lived in Ho Chi Minh City - Vietnam until 18, spent 7 years in Germany, and now in Toronto - Canada.
 
@@ -24,11 +24,11 @@ I lived in Ho Chi Minh City - Vietnam until 18, spent 7 years in Germany, and no
 
 ### Recent news
 
+10.2024 - Paper accepted at NeurIPS AIM-FM Workshop 2024: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054)
+
 09.2024 - New arxiv preprint released!: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074)
 
 08.2024 - New arxiv preprint released!: [wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech](https://arxiv.org/abs/2408.04174)
-
-07.2024 - New arxiv preprint released!: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054)
 
 <!---
 <p align="center">
