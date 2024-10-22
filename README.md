@@ -2,7 +2,7 @@
 
 I'm currently pursuing MASc Biomedical Engineering at University of Toronto.
 Before that, I was at FH Aachen University, RWTH Aachen University, and Vietnam National University Ho Chi Minh City.   
-My research spans 3 pillars of medical AI: AI Speech/Language Processing, Multimodal Large Language Models, Machine Learning.
+My research spans 3 pillars of medical AI: Speech and Language Processing, Multimodal Large Language Models, Machine Learning.
 
 I feel grateful to be supervised by: [Prof. Hermann Ney](https://scholar.google.de/citations?user=6C8rf-0AAAAJ&hl=de), [PD Ralf Schlüter](https://scholar.google.de/citations?user=JmuAC9oAAAAJ&hl=de), [Prof. Anh Totti Nguyen](https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en)
 
