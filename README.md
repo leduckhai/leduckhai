@@ -24,6 +24,8 @@ I lived in Ho Chi Minh City - Vietnam until 18, spent 7 years in Germany, and no
 
 ### Recent news
 
+02.2025 - Paper accepted at NAACL 2025: [Medical Spoken Named Entity Recognition](https://arxiv.org/abs/2406.13337) (3 rejections over 1 year huhuhuhu)
+
 10.2024 - Paper accepted at NeurIPS AIM-FM Workshop 2024: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054)
 
 09.2024 - New arxiv preprint released!: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074)
