@@ -4,7 +4,7 @@ I'm currently pursuing MASc Biomedical Engineering at University of Toronto.
 Before that, I was at FH Aachen University, RWTH Aachen University, and Vietnam National University Ho Chi Minh City.   
 My research spans 3 pillars of medical AI: Speech and Language Processing, Multimodal Large Language Models, Machine Learning.
 
-I feel grateful to be supervised by: [Prof. Hermann Ney](https://scholar.google.de/citations?user=6C8rf-0AAAAJ&hl=de) (\#1 world's Speech Recognition researcher, h-index 110), [PD Ralf Schlüter](https://scholar.google.de/citations?user=JmuAC9oAAAAJ&hl=de) (h-index 50), [Prof. Anh Totti Nguyen](https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en) (10k citations), [Khanh Xuan Nguyen](https://scholar.google.com/citations?user=SmqouhIAAAAJ) (Princeton & UC Berkeley), [Thanh Nguyen-Tang](https://scholar.google.co.kr/citations?user=UrTlMiwAAAAJ&hl=en) (Johns Hopkins). 
+I feel grateful to be supervised by: [Prof. Hermann Ney](https://scholar.google.de/citations?user=6C8rf-0AAAAJ&hl=de) (\#1 world's Speech Recognition researcher, h-index 110), [PD Ralf Schlüter](https://scholar.google.de/citations?user=JmuAC9oAAAAJ&hl=de) (h-index 50), [Truong-Son Hy](https://scholar.google.com/citations?user=JiKBo6UAAAAJ&hl=en) (UChicago), [Prof. Anh Totti Nguyen](https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en) (10k citations), [Khanh Xuan Nguyen](https://scholar.google.com/citations?user=SmqouhIAAAAJ) (IOI Medalist, Princeton & UC Berkeley), [Thanh Nguyen-Tang](https://scholar.google.co.kr/citations?user=UrTlMiwAAAAJ&hl=en) (Johns Hopkins). 
 
 I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toronto - Canada.
 
