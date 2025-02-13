@@ -6,13 +6,13 @@ My research spans 3 pillars of medical AI: Speech and Language Processing, Multi
 
 I feel grateful to be supervised by: [Prof. Hermann Ney](https://scholar.google.de/citations?user=6C8rf-0AAAAJ&hl=de), [PD Ralf Schlüter](https://scholar.google.de/citations?user=JmuAC9oAAAAJ&hl=de), [Prof. Anh Totti Nguyen](https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en)
 
-I lived in Ho Chi Minh City - Vietnam until 18, spent 7 years in Germany, and now in Toronto - Canada.
+I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toronto - Canada.
 
 **Fun facts about me**:
 
 1. I'm proud to be a prisoner at Nguyễn Khuyến Prison.
    
-2. I used to love a girl for 10 years, and she's still the only one till now. She was in top X of Miss Vietnam (Hoa hậu Việt Nam).
+2. I used to love a girl for 10 years, and she's the only relationship I had. She was in top X of Miss Vietnam (Hoa hậu Việt Nam). But luckily I just have a crush on another cute girl!
 
 3. My estimated IQ was ~120-130.
 
