@@ -1,10 +1,11 @@
 ### Eyo my comrades👋 I'm Khai
 
-I'm currently pursuing MASc Biomedical Engineering at University of Toronto.
-Before that, I was at FH Aachen University, RWTH Aachen University, and Vietnam National University Ho Chi Minh City.   
-My research spans 3 pillars: Speech-Language Processing, Multimodal LLMs, Medical AI.
+I'm currently cooking MASc Biomedical Engineering at University of Toronto.
+In the past, I was a Valedictorian at Vietnam National University Ho Chi Minh City, then I was screwed at FH Aachen University and RWTH Aachen University.   
 
-I feel grateful to be supervised by: [Prof. Hermann Ney](https://scholar.google.de/citations?user=6C8rf-0AAAAJ&hl=de) (\#1 world's Speech Recognition researcher, h-index 110), [PD Ralf Schlüter](https://scholar.google.de/citations?user=JmuAC9oAAAAJ&hl=de) (h-index 50), [Prof. Truong-Son Hy](https://scholar.google.com/citations?user=JiKBo6UAAAAJ&hl=en) (UChicago), [Prof. Anh Totti Nguyen](https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en) (Rising star, 10k citations), [PhD Khanh Xuan Nguyen](https://scholar.google.com/citations?user=SmqouhIAAAAJ) (IOI Medalist, Princeton & UC Berkeley), [PhD Thanh Nguyen-Tang](https://scholar.google.co.kr/citations?user=UrTlMiwAAAAJ&hl=en) (Johns Hopkins). 
+My research spans 3 pillars: Speech-Language Processing, Multimodal LLMs, Medical AI. Most of my papers have been commercialized :moneybag:
+
+I feel grateful to be supervised by: [Prof. Hermann Ney](https://scholar.google.de/citations?user=6C8rf-0AAAAJ&hl=de) (\#1 world's Speech Recognition researcher, h-index 110), [PD Ralf Schlüter](https://scholar.google.de/citations?user=JmuAC9oAAAAJ&hl=de) (h-index 50), [Prof. Truong-Son Hy](https://scholar.google.com/citations?user=JiKBo6UAAAAJ&hl=en) (UChicago), [Prof. Anh Totti Nguyen](https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en) (Rising star, 10k citations), [PhD Nguyen Xuan Khanh](https://scholar.google.com/citations?user=SmqouhIAAAAJ) (IOI Medalist, Princeton & UC Berkeley), [PhD Thanh Nguyen-Tang](https://scholar.google.co.kr/citations?user=UrTlMiwAAAAJ&hl=en) (Johns Hopkins). 
 
 I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toronto - Canada. To be a Canadian next year :innocent:
 
@@ -24,9 +25,9 @@ I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toro
 
 ### Recent news
 
-02.2025 - Paper accepted at NAACL 2025: [Medical Spoken Named Entity Recognition](https://arxiv.org/abs/2406.13337) (3 rejections over 1 year :sob:)
+02.2025 - 🔥Paper accepted at NAACL 2025: [Medical Spoken Named Entity Recognition](https://arxiv.org/abs/2406.13337) (3 rejections over 1 year :sob:)
 
-10.2024 - Paper accepted at NeurIPS AIM-FM Workshop 2024: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054)
+10.2024 - 🔥Paper accepted at NeurIPS AIM-FM Workshop 2024: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054)
 
 09.2024 - New arxiv preprint released!: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074)
 
