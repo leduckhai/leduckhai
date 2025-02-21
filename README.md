@@ -1,7 +1,7 @@
 ### Eyo my comrades👋 I'm Khai
 
-I'm currently cooking MASc Biomedical Engineering at University of Toronto.
-In the past, I was a Valedictorian at Vietnam National University Ho Chi Minh City, then I was screwed at FH Aachen University and RWTH Aachen University.   
+I'm currently cooking MASc Biomedical Engineering at University of Toronto (#1 Canada).
+In the past, I was a Valedictorian at Vietnam National University HCMC (#1 Vietnam), then I was screwed at FH Aachen and RWTH Aachen (#1 and #2 Germany). My educational background is a mix of Econ, CS and BME.
 
 My research is business-oriented and spans 3 pillars: Speech-Language Processing, Multimodal LLMs, Medical AI. Most of my papers have been commercialized :moneybag:
 
@@ -13,7 +13,7 @@ I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toro
 
 1. I'm proud to be a prisoner at Nguyễn Khuyến Prison.
    
-2. I used to love a girl for 10 years :cry:, and she's the only relationship I had. She was in top X of Miss Vietnam (Hoa hậu Việt Nam). But luckily I just have a crush on another cute girl :smiling_face_with_three_hearts:
+2. I used to love a girl for 10 years :cry:, and she's the only relationship I had. She was in top X of Miss Vietnam (Hoa hậu Việt Nam). Thought I’d never catch feelings again, but thank Buddha, now I’m crushing hard on a 19-year-old cutie :smiling_face_with_three_hearts:
 
 3. My estimated IQ was ~120-130.
 
