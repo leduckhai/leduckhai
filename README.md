@@ -1,7 +1,7 @@
 ### Eyo my comrades👋 I'm Khai
 
-I'm currently cooking MASc Biomedical Engineering at University of Toronto (#1 Canada).
-In the past, I was a Valedictorian at Vietnam National University HCMC (#1 Vietnam), then I was screwed at FH Aachen and RWTH Aachen (Germany's #1 UAS and #2 Uni). My educational background is a mix of Econ, CS and BME.
+I'm currently cooking MASc Biomedical Engineering at University of Toronto (#1 Canada) and UHN (Canada's #1 Hospital).
+In the past, I was a Valedictorian at Vietnam National University HCMC (#1 Vietnam), then I was screwed at FH Aachen and RWTH Aachen (Germany's #1 UAS and #2 Universität). My educational background is a mix of Econ, CS and BME.
 
 My research is business-oriented and spans 3 pillars: Speech-Language Processing, Multimodal LLMs, Medical AI. Most of my papers have been commercialized :moneybag:
 
