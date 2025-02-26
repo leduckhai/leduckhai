@@ -1,4 +1,4 @@
-### Eyo my comrades👋 I'm Khai
+### Guten Tag my comrades👋 I'm Khai
 
 I'm currently cooking MASc Biomedical Engineering at University of Toronto (#1 Canada) and UHN (Canada's #1 Hospital).
 In the past, I was a Valedictorian at Vietnam National University HCMC (#1 Vietnam), then I was screwed at FH Aachen and RWTH Aachen (Germany's #1 UAS and #2 Universität). My educational background is a mix of Econ, CS and BME.
@@ -7,8 +7,7 @@ My research is business-oriented and spans 3 pillars: Speech-Language Processing
 
 I feel grateful to be supervised by: [Prof. Hermann Ney](https://scholar.google.de/citations?user=6C8rf-0AAAAJ&hl=de) (world's #1 Speech Recognition researcher, h-index 110), [PD Ralf Schlüter](https://scholar.google.de/citations?user=JmuAC9oAAAAJ&hl=de) (h-index 50), [Prof. Truong-Son Hy](https://scholar.google.com/citations?user=JiKBo6UAAAAJ&hl=en) (UChicago), [Prof. Anh Totti Nguyen](https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en) (Rising star, 10k citations), [PhD Nguyen X. Khanh](https://scholar.google.com/citations?user=SmqouhIAAAAJ) (IOI Medalist, Princeton & UC Berkeley), [PhD Thanh Nguyen-Tang](https://scholar.google.co.kr/citations?user=UrTlMiwAAAAJ&hl=en) (Johns Hopkins). 
 
-I speak Vietnamese, English, German (C1) and can read French, Dutch at some degree. 
-I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toronto - Canada. To be a Canadian next year :innocent:
+I speak Vietnamese, English, German (C1) and can read French, Dutch at some degree. I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toronto - Canada. To be a Canadian next year :innocent:
 
 **Fun facts about me**:
 
