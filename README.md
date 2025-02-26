@@ -21,7 +21,7 @@ I speak Vietnamese, English, German (C1) and can read French, Dutch at some degr
 
 5. I burned my school when I was in grade 7.
 
-6. I have never been angry to anyone.
+6. Try'na never lie, never get angry, never hurt anybody
 
 ### Recent news
 
