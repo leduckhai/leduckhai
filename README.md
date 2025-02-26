@@ -13,7 +13,7 @@ I speak Vietnamese, English, German (C1) and can read French, Dutch at some degr
 
 1. I'm proud to be a prisoner at Nguyễn Khuyến Prison.
    
-2. I used to love a girl for 10 years :cry:, and she's the only relationship I had. She was in top X of Miss Vietnam (Hoa hậu Việt Nam). Thought I’d never catch feelings again, but thank Buddha, now I’m crushing hard on a 19-year-old cutie :smiling_face_with_three_hearts:
+2. I used to love a girl for 10 years :cry: and she's the only relationship I had - she was in top X of Miss Vietnam (Hoa hậu Việt Nam). Then mama forced me to marry a Miss Business Vietnam (Hoa hậu Doanh nhân Việt Nam) but I escaped just a few days before the wedding :joy: Thought I’d never catch feelings twice, but thank Buddha, now I’m crushing hard on a 19-year-old cutie :smiling_face_with_three_hearts:
 
 3. My estimated IQ was ~120-130.
 
