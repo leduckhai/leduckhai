@@ -24,9 +24,11 @@ I speak Vietnamese, English, German (C1) and can read French, Dutch at some degr
 
 5. I burned my school when I was in grade 7.
 
-6. Try'na never lie, never get angry, never hurt anybody
+6. Try'na neva lie, neva get angry, neva hurt anybody.
 
 ### Recent news
+
+04.2025 - New arxiv preprint released!: [MultiMed-ST: Large-scale Many-to-many Multilingual Medical Speech Translation](https://arxiv.org/abs/2504.03546) -**120 pages** 🔥
 
 02.2025 - 🔥Paper accepted at NAACL 2025: [Medical Spoken Named Entity Recognition](https://arxiv.org/abs/2406.13337) (3 rejections over 1 year :sob:)
 
@@ -50,7 +52,7 @@ I speak Vietnamese, English, German (C1) and can read French, Dutch at some degr
   <img src="https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=default&count_private=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leduckhai&show_icons=true&theme=default&&langs_count=10" height="150"/>
 </p>
 
-❄️ I'm offering 1-1 mentorship about anything, e.g. how to get into top uni, how to publish at top tier venues, how to be handsome...😉 Simply inbox me
+❄️ I'm offering a free 1-1 mentorship about anything, e.g. how to get into top uni, how to publish at top tier venues, how to be handsome...😉 Simply inbox me
 
 #### Airstrike me at:
 [<img align="left" alt="Facebook" src="https://github.com/leduckhai/leduckhai/blob/main/icons/facebook-icon.png" width="30"/>](https://www.facebook.com/techmonzter/)
