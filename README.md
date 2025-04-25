@@ -1,6 +1,6 @@
 ### Guten Tag my comrades👋 I'm Khai
 
-I'm currently cooking MASc Biomedical Engineering at University of Toronto (#1 Canada) and UHN (Canada's #1 Hospital).
+I'm currently cooking my 1st year in MASc Biomedical Engineering at University of Toronto (#1 Canada) and UHN (Canada's #1 Hospital).
 In the past, I was a Valedictorian at Vietnam National University HCMC (#1 Vietnam), then I was screwed at FH Aachen and RWTH Aachen (Germany's #1 FH and #2 TU). My educational background is a mix of Econ, CS and BME.
 
 My research is business-oriented and spans 3 pillars: Speech-Language Processing, Multimodal LLMs, Medical AI. Most of my papers have been commercialized :moneybag:
@@ -52,7 +52,7 @@ I speak Vietnamese, English, German (C1) and can read French, Dutch at some degr
   <img src="https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=default&count_private=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leduckhai&show_icons=true&theme=default&&langs_count=10" height="150"/>
 </p>
 
-❄️ I'm offering a free 1-1 mentorship about anything, e.g. how to get into top uni, how to publish at top tier venues, how to be handsome...😉 Simply inbox me
+❄️ I'm offering a free 1-1 mentorship about anything, e.g. how to get into top uni, how to publish at top tier venues, how to be handsome...😉 I'm also open to any collaboration opportunities, e.g. business, research... Simply inbox me
 
 #### Airstrike me at:
 [<img align="left" alt="Facebook" src="https://github.com/leduckhai/leduckhai/blob/main/icons/facebook-icon.png" width="30"/>](https://www.facebook.com/techmonzter/)
