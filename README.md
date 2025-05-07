@@ -12,20 +12,6 @@ I feel grateful to be supervised by:
 
 I speak Vietnamese, English, German (C1) and can read French, Dutch at some degree. I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toronto - Canada. To be a Canadian next year :innocent:
 
-**Fun facts about me**:
-
-1. I'm proud to be a prisoner at Nguyễn Khuyến Prison.
-   
-2. I used to love a girl for 10 years :cry: and she's the only relationship I had - she was in top X of Miss Vietnam (Hoa hậu Việt Nam). Then mama forced me to marry a Miss Business Vietnam (Hoa hậu Doanh nhân Việt Nam) but I escaped just a few days before the wedding :joy: Thought I’d never catch feelings twice, but thank Buddha, now I’m crushing hard on a 19-year-old cutie :smiling_face_with_three_hearts:
-
-3. My estimated IQ was ~120-130.
-
-4. Most people think I'm a highschool student. Thanks mom for giving me a cute face!
-
-5. I burned my school when I was in grade 7.
-
-6. Try'na neva lie, neva get angry, neva hurt anybody.
-
 ### Recent news
 
 04.2025 - New arxiv preprint released!: [MultiMed-ST: Large-scale Many-to-many Multilingual Medical Speech Translation](https://arxiv.org/abs/2504.03546) -**120 pages** 🔥
