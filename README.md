@@ -35,7 +35,7 @@ I speak Vietnamese, English, German (C1) and can read French, Dutch at some degr
 
 -------------------
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=default&count_private=true" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leduckhai&show_icons=true&theme=default&&langs_count=10" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=default&count_private=true&hide=commits,prs,issues,contribs" height="150"/> 
 </p>
 
 ❄️ I'm offering a free 1-1 mentorship about anything, e.g. how to get into top uni, how to publish at top tier venues, how to be handsome...😉 I'm also open to any collaboration opportunities, e.g. business, research... Simply inbox me
