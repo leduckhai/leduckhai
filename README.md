@@ -14,19 +14,19 @@ I speak Vietnamese, English, German (C1) and can read French, Dutch at some degr
 
 ### Recent news
 
-05.2025 - 🔥Paper accepted at ACL 2025 (**Oral**)🔥: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054) (**5** rejections over 1 year bủh bủh lmao)
+- 05.2025 - 🔥Paper accepted at ACL 2025 (**Oral**)🔥: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054) (**5** rejections over 1 year bủh bủh lmao)
 
-05.2025 - 🔥Paper accepted at ACL 2025: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074) (2 rejections over 9 months)
+- 05.2025 - 🔥Paper accepted at ACL 2025: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074) (2 rejections over 9 months)
 
-04.2025 - New arxiv preprint released!: [MultiMed-ST: Large-scale Many-to-many Multilingual Medical Speech Translation](https://arxiv.org/abs/2504.03546) -**120 pages** 🔥
+- 04.2025 - New arxiv preprint released!: [MultiMed-ST: Large-scale Many-to-many Multilingual Medical Speech Translation](https://arxiv.org/abs/2504.03546) -**120 pages** 🔥
 
-02.2025 - 🔥Paper accepted at NAACL 2025: [Medical Spoken Named Entity Recognition](https://arxiv.org/abs/2406.13337) (3 rejections over 1 year :sob:)
+- 02.2025 - 🔥Paper accepted at NAACL 2025: [Medical Spoken Named Entity Recognition](https://arxiv.org/abs/2406.13337) (3 rejections over 1 year :sob:)
 
-10.2024 - 🔥Paper accepted at NeurIPS AIM-FM Workshop 2024: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054)
+- 10.2024 - 🔥Paper accepted at NeurIPS AIM-FM Workshop 2024: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054)
 
-09.2024 - New arxiv preprint released!: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074)
+- 09.2024 - New arxiv preprint released!: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074)
 
-08.2024 - New arxiv preprint released!: [wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech](https://arxiv.org/abs/2408.04174)
+- 08.2024 - New arxiv preprint released!: [wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech](https://arxiv.org/abs/2408.04174)
 
 <!---
 <p align="center">
