@@ -14,6 +14,10 @@ I speak Vietnamese, English, German (C1) and can read French, Dutch at some degr
 
 ### Recent news
 
+05.2025 - 🔥Paper accepted at ACL 2025 (**Oral**)🔥: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054)
+
+05.2025 - 🔥Paper accepted at ACL 2025: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074)
+
 04.2025 - New arxiv preprint released!: [MultiMed-ST: Large-scale Many-to-many Multilingual Medical Speech Translation](https://arxiv.org/abs/2504.03546) -**120 pages** 🔥
 
 02.2025 - 🔥Paper accepted at NAACL 2025: [Medical Spoken Named Entity Recognition](https://arxiv.org/abs/2406.13337) (3 rejections over 1 year :sob:)
