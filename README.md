@@ -12,9 +12,23 @@ I feel grateful to be supervised by:
 
 I speak Vietnamese, English, German (C1) and can read French, Dutch at some degree. I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toronto - Canada. To be a Canadian next year :innocent:
 
+**Fun facts about me**:
+
+1. I'm proud to be a prisoner at Nguyễn Khuyến Prison.
+
+2. I once loved a girl for 10 years but our happiness together lasted only 20 months :cry: and she's the only relationship I had - she was in top X of Miss Vietnam (Hoa hậu Việt Nam). Then mama forced me to marry a Miss Business Vietnam (Hoa hậu Doanh nhân Việt Nam) but I escaped just a few days before the wedding :joy: Hope to know what it truly means to love and be loved in the near future :smiling_face_with_three_hearts:.
+
+3. My estimated IQ was ~120-130.
+
+4. Most people think I'm a highschool student. Thanks mom for giving me a cute face!
+
+5. I burned my school when I was in grade 7.
+
+6. Try'na neva lie, neva get angry, neva hurt anybody.
+   
 ### Recent news
 
-- 05.2025 - 🔥Paper accepted at ACL 2025 (**Oral**)🔥: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054) (**5** rejections over 1 year bủh bủh lmao)
+- 05.2025 - 🔥Paper accepted at ACL 2025 (**Oral**)🔥: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054) (**5 rejections over 1 year** bủh bủh lmao :joy:)
 
 - 05.2025 - 🔥Paper accepted at ACL 2025: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074) (2 rejections over 9 months)
 
