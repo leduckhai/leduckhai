@@ -22,7 +22,7 @@ I speak Vietnamese, English, German (C1) and can read French, Dutch at some degr
 
 4. Most people think I'm a highschool student. Thanks mom for giving me a cute face!
 
-5. I burned my school when I was in grade 7.
+5. I spent all of my childhood imprisoned within the walls of an orphanage. So all my life, I just wanna scatter light and joy across the world - for the happiness I was never given :kissing_smiling_eyes:
 
 6. Try'na neva lie, neva get angry, neva hurt anybody.
    
