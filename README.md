@@ -25,7 +25,8 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 5. I spent all of my childhood imprisoned within an orphanage. So all my life, I just wanna scatter light and love across the world - for the happiness I was never given, for the pain never healed in me :kissing_smiling_eyes:
 
 6. Try'na neva lie, neva get angry, neva hurt anybody.
-   
+
+---------------------
 ### Recent news
 
 - 05.2025 - 🔥Paper accepted at ACL 2025 (**Oral**)🔥: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054) (**5 rejections over 1 year** bủh bủh lmao :joy:)
