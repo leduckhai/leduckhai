@@ -65,3 +65,17 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=shadow_red&count_private=true&hide=commits,prs,issues,contribs&hide_rank=true" height="100"/> 
 </p>
+
+**<div align="left">🔥 Recently featured</div>**
+<p align="left">
+  <a href="https://github.com/leduckhai/MultiMed-ST">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=leduckhai&repo=MultiMed-ST&theme=rose" alt="MultiMed-ST">
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/leduckhai/MultiMed-ST">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=leduckhai&repo=Sentiment-Reasoning&theme=solarized-light" alt="Sentiment-Reasoning">
+  </a>
+</p>
+
