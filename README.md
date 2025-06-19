@@ -30,17 +30,30 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 
 - 05.2025 - 🔥Paper accepted at ACL 2025 (**Oral**)🔥: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054) (**5 rejections over 1 year** bủh bủh lmao :joy:)
 
+<p align="center">
+  <a href="https://github.com/leduckhai/Sentiment-Reasoning">
+    <img height="70" src="https://github-readme-stats.vercel.app/api/pin/?username=leduckhai&repo=Sentiment-Reasoning&theme=solarized-light" alt="Sentiment-Reasoning">
+  </a>
+</p>
+
 - 05.2025 - 🔥Paper accepted at ACL 2025: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074) (2 rejections over 9 months)
+
+<p align="center">
+  <a href="https://github.com/leduckhai/MultiMed">
+    <img height="90" src="https://github-readme-stats.vercel.app/api/pin/?username=leduckhai&repo=MultiMed&theme=shadow_red" alt="MultiMed">
+  </a>
+</p>
 
 - 04.2025 - New arxiv preprint released!: [MultiMed-ST: Large-scale Many-to-many Multilingual Medical Speech Translation](https://arxiv.org/abs/2504.03546) - **120 pages** 🔥
 
+<p align="center">
+  <a href="https://github.com/leduckhai/MultiMed-ST">
+    <img height="90" src="https://github-readme-stats.vercel.app/api/pin/?username=leduckhai&repo=MultiMed-ST&theme=rose" alt="MultiMed-ST">
+  </a>
+</p>
+
 - 02.2025 - 🔥Paper accepted at NAACL 2025: [Medical Spoken Named Entity Recognition](https://arxiv.org/abs/2406.13337) (3 rejections over 1 year :sob:)
 
-- 10.2024 - 🔥Paper accepted at NeurIPS AIM-FM Workshop 2024: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054)
-
-- 09.2024 - New arxiv preprint released!: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074)
-
-- 08.2024 - New arxiv preprint released!: [wav2graph: A Framework for Supervised Learning Knowledge Graph from Speech](https://arxiv.org/abs/2408.04174)
 
 <!---
 <p align="center">
@@ -62,18 +75,5 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 -------------------
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=shadow_red&count_private=true&hide=commits,prs,issues,contribs&hide_rank=true" height="100"/> 
-</p>
-
-**<div align="left">🔥 Recently featured</div>**
-<p align="left">
-  <a href="https://github.com/leduckhai/MultiMed-ST">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=leduckhai&repo=MultiMed-ST&theme=rose" alt="MultiMed-ST">
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/leduckhai/MultiMed-ST">
-    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=leduckhai&repo=Sentiment-Reasoning&theme=solarized-light" alt="Sentiment-Reasoning">
-  </a>
 </p>
 
