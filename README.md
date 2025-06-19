@@ -51,8 +51,6 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 </p>
 -->
 
-❄️ I'm offering a free 1-1 mentorship about anything, e.g. how to get into top uni, how to publish at top tier venues, how to be handsome...😉 I'm also open to any collaboration opportunities, e.g. business, research... Simply inbox me
-
 #### Airstrike me at:
 [<img align="left" alt="Facebook" src="https://github.com/leduckhai/leduckhai/blob/main/icons/facebook-icon.png" width="30"/>](https://www.facebook.com/techmonzter/)
 [<img align="left" alt="Instagram" src="https://github.com/leduckhai/leduckhai/blob/main/icons/instagram-icon.jfif" width="30"/>](https://www.instagram.com/_techmonzter_/)
