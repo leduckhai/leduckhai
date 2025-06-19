@@ -10,7 +10,7 @@ I feel grateful to be supervised by:
 - Bachelor thesis: [Prof. Hermann Ney](https://scholar.google.de/citations?user=6C8rf-0AAAAJ&hl=de) (world's #1 Speech Recognition researcher, h-index 110), [PD Ralf Schlüter](https://scholar.google.de/citations?user=JmuAC9oAAAAJ&hl=de) (h-index 50)
 - Research in industry: [Prof. Truong-Son Hy](https://scholar.google.com/citations?user=JiKBo6UAAAAJ&hl=en) (UChicago), [Prof. Anh Totti Nguyen](https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en) (Rising star, 10k citations), [PhD Nguyen X. Khanh](https://scholar.google.com/citations?user=SmqouhIAAAAJ) (Princeton & UC Berkeley), [Prof. Thanh Nguyen-Tang](https://scholar.google.co.kr/citations?user=UrTlMiwAAAAJ&hl=en) (Johns Hopkins)
 
-I speak Vietnamese, English, German (C1) and can read French, Dutch at some degree. I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toronto - Canada. To be a Canadian next year :innocent:
+I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toronto - Canada. To be a Canadian next year :innocent:
 
 **Fun facts about me**:
 
@@ -22,7 +22,7 @@ I speak Vietnamese, English, German (C1) and can read French, Dutch at some degr
 
 4. Most people think I'm a highschool student. Thanks mom for giving me a cute face!
 
-5. I spent all of my childhood imprisoned within an orphanage. So all my life, I just wanna scatter light and joy across the world - for the happiness I was never given :kissing_smiling_eyes:
+5. I spent all of my childhood imprisoned within an orphanage. So all my life, I just wanna scatter light and love across the world - for the happiness I was never given, for the pain never healed in me :kissing_smiling_eyes:
 
 6. Try'na neva lie, neva get angry, neva hurt anybody.
    
@@ -32,7 +32,7 @@ I speak Vietnamese, English, German (C1) and can read French, Dutch at some degr
 
 - 05.2025 - 🔥Paper accepted at ACL 2025: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074) (2 rejections over 9 months)
 
-- 04.2025 - New arxiv preprint released!: [MultiMed-ST: Large-scale Many-to-many Multilingual Medical Speech Translation](https://arxiv.org/abs/2504.03546) -**120 pages** 🔥
+- 04.2025 - New arxiv preprint released!: [MultiMed-ST: Large-scale Many-to-many Multilingual Medical Speech Translation](https://arxiv.org/abs/2504.03546) - **120 pages** 🔥
 
 - 02.2025 - 🔥Paper accepted at NAACL 2025: [Medical Spoken Named Entity Recognition](https://arxiv.org/abs/2406.13337) (3 rejections over 1 year :sob:)
 
@@ -51,11 +51,6 @@ I speak Vietnamese, English, German (C1) and can read French, Dutch at some degr
 </p>
 -->
 
--------------------
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=default&count_private=true&hide=commits,prs,issues,contribs" height="150"/> 
-</p>
-
 ❄️ I'm offering a free 1-1 mentorship about anything, e.g. how to get into top uni, how to publish at top tier venues, how to be handsome...😉 I'm also open to any collaboration opportunities, e.g. business, research... Simply inbox me
 
 #### Airstrike me at:
@@ -66,3 +61,7 @@ I speak Vietnamese, English, German (C1) and can read French, Dutch at some degr
 [<img align="left" alt="GoogleScholar" src="https://github.com/leduckhai/leduckhai/blob/main/google-scholar-icon.png" width="30"/>](https://scholar.google.de/citations?user=DfAzEe0AAAAJ&hl=en)
 [<img align="left" alt="MyCV" src="https://github.com/leduckhai/leduckhai/blob/main/icons/my-cv-icon.png" width="30"/>](https://github.com/leduckhai/leduckhai/blob/main/Academic_CV_LeDucKhai.pdf)
 
+-------------------
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=shadow_red&count_private=true&hide=commits,prs,issues,contribs&hide_rank=true" height="100"/> 
+</p>
