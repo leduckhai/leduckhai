@@ -18,7 +18,7 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 
 2. I once loved a girl for 10 years but our happiness together lasted only 20 months :cry: and she's the only relationship I had - she was in top X of Miss Vietnam (Hoa hậu Việt Nam). Then mama forced me to marry a Miss Business Vietnam (Hoa hậu Doanh nhân Việt Nam) but I escaped just a few days before the wedding :joy: Hope to know what it truly means to love and be loved in the near future :smiling_face_with_three_hearts:.
 
-3. My estimated IQ was ~120-130.
+3. My estimated IQ is modestly ~120-130. I'm a proof of Attitude >= Altitude
 
 4. Most people think I'm a highschool student. Thanks mom for giving me a cute face!
 
@@ -29,7 +29,7 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 ---------------------
 ### Recent news
 
-- 05.2025 - 🔥Paper accepted at ACL 2025 (**Oral**)🔥: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054) (**5 rejections over 1 year** bủh bủh lmao :joy:)
+- 05.2025 - 🔥Paper accepted at ACL 2025 Industry Track (**Oral**)🔥: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054) (**5 rejections over 1 year** bủh bủh lmao :joy:)
 
 <p align="center">
   <a href="https://github.com/leduckhai/Sentiment-Reasoning">
@@ -37,7 +37,7 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
   </a>
 </p>
 
-- 05.2025 - 🔥Paper accepted at ACL 2025: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074) (2 rejections over 9 months)
+- 05.2025 - 🔥Paper accepted at ACL 2025 Industry Track: [MultiMed: Multilingual Medical Speech Recognition via Attention Encoder Decoder](https://arxiv.org/abs/2409.14074) (2 rejections over 9 months)
 
 <p align="center">
   <a href="https://github.com/leduckhai/MultiMed">
@@ -53,7 +53,7 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
   </a>
 </p>
 
-- 02.2025 - 🔥Paper accepted at NAACL 2025: [Medical Spoken Named Entity Recognition](https://arxiv.org/abs/2406.13337) (3 rejections over 1 year :sob:)
+- 02.2025 - 🔥Paper accepted at NAACL 2025 Industry Track: [Medical Spoken Named Entity Recognition](https://arxiv.org/abs/2406.13337) (3 rejections over 1 year :sob:)
 
 
 <!---
