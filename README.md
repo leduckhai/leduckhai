@@ -28,6 +28,13 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 
 ---------------------
 ### Recent news
+- 08.2025 - 🔥Paper accepted at EMNLP 2025🔥: [MultiMed-ST: Large-scale Many-to-many Multilingual Medical Speech Translation](https://arxiv.org/abs/2504.03546) - **120 pages** 🔥
+
+<p align="center">
+  <a href="https://github.com/leduckhai/MultiMed-ST">
+    <img height="90" src="https://github-readme-stats.vercel.app/api/pin/?username=leduckhai&repo=MultiMed-ST&theme=rose" alt="MultiMed-ST">
+  </a>
+</p>
 
 - 05.2025 - 🔥Paper accepted at ACL 2025 Industry Track (**Oral**)🔥: [Sentiment Reasoning for Healthcare](https://arxiv.org/abs/2407.21054) (**5 rejections over 1 year** bủh bủh lmao :joy:)
 
@@ -42,14 +49,6 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 <p align="center">
   <a href="https://github.com/leduckhai/MultiMed">
     <img height="90" src="https://github-readme-stats.vercel.app/api/pin/?username=leduckhai&repo=MultiMed&theme=shadow_red" alt="MultiMed">
-  </a>
-</p>
-
-- 04.2025 - New arxiv preprint released!: [MultiMed-ST: Large-scale Many-to-many Multilingual Medical Speech Translation](https://arxiv.org/abs/2504.03546) - **120 pages** 🔥
-
-<p align="center">
-  <a href="https://github.com/leduckhai/MultiMed-ST">
-    <img height="90" src="https://github-readme-stats.vercel.app/api/pin/?username=leduckhai&repo=MultiMed-ST&theme=rose" alt="MultiMed-ST">
   </a>
 </p>
 
