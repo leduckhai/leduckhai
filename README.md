@@ -70,7 +70,7 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 [<img align="left" alt="X" src="https://github.com/leduckhai/leduckhai/blob/main/icons/x-icon.png" width="30"/>](https://twitter.com/_leduckhai_)
 [<img align="left" alt="LinkedIn" src="https://github.com/leduckhai/leduckhai/blob/main/icons/linkedin-icon.png" width="30"/>](https://www.linkedin.com/in/khaileduc/)
 [<img align="left" alt="GoogleScholar" src="https://github.com/leduckhai/leduckhai/blob/main/google-scholar-icon.png" width="30"/>](https://scholar.google.de/citations?user=DfAzEe0AAAAJ&hl=en)
-[<img align="left" alt="MyCV" src="https://github.com/leduckhai/leduckhai/blob/main/icons/my-cv-icon.png" width="30"/>](https://github.com/leduckhai/leduckhai/blob/main/Academic_CV_LeDucKhai.pdf)
+[<img align="left" alt="MyCV" src="https://github.com/leduckhai/leduckhai/blob/main/icons/my-cv-icon.png" width="30"/>](https://drive.google.com/file/d/1iAh1VNEjDvN-QShFfAsHSabPS8zZro1V/view?usp=drive_link)
 
 -------------------
 <p align="center">
