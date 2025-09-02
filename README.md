@@ -1,5 +1,11 @@
 ### Guten Tag my comrades👋 I'm Khai
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=shadow_red&count_private=true&hide=commits,prs,issues,contribs&hide_rank=true" height="100"/> 
+</p>
+
+------------------------
+
 I'm currently cooking my 1st year in MASc Biomedical Engineering at University of Toronto (#1 Canada) and UHN (Canada's #1 Hospital).
 In the past, I was a Valedictorian at Vietnam National University HCMC (#1 Vietnam), then I was screwed at FH Aachen and RWTH Aachen (Germany's #1 FH and #2 TU). My educational background is a mix of Econ, CS and BME.
 
@@ -73,7 +79,5 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 [<img align="left" alt="MyCV" src="https://github.com/leduckhai/leduckhai/blob/main/icons/my-cv-icon.png" width="30"/>](https://drive.google.com/file/d/1iAh1VNEjDvN-QShFfAsHSabPS8zZro1V/view?usp=drive_link)
 
 -------------------
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=shadow_red&count_private=true&hide=commits,prs,issues,contribs&hide_rank=true" height="100"/> 
-</p>
+
 
