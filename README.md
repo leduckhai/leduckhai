@@ -28,7 +28,7 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 
 4. Most people think I'm a highschool student. Thanks mom for giving me a cute face!
 
-5. I spent all of my childhood imprisoned within an orphanage. So all my life, I just wanna scatter light and love across the world - for the happiness I was never given, for the pain never healed in me :kissing_smiling_eyes:
+5. Since I was 3, I spent all of my childhood imprisoned within an orphanage. So all my life, I just wanna scatter light and love across the world - for the happiness I was never given, for the pain never healed in me :kissing_smiling_eyes:
 
 6. Try'na neva lie, neva get angry, neva hurt anybody.
 
