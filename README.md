@@ -80,6 +80,8 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 [<img align="left" alt="GoogleScholar" src="https://github.com/leduckhai/leduckhai/blob/main/google-scholar-icon.png" width="30"/>](https://scholar.google.de/citations?user=DfAzEe0AAAAJ&hl=en)
 [<img align="left" alt="MyCV" src="https://github.com/leduckhai/leduckhai/blob/main/icons/my-cv-icon.png" width="30"/>](https://drive.google.com/file/d/1iAh1VNEjDvN-QShFfAsHSabPS8zZro1V/view?usp=drive_link)
 
+Email: duckhai.le@mail.utoronto.ca
+
 -------------------
 
 
