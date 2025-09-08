@@ -11,7 +11,7 @@ In the past, I was a Valedictorian at Vietnam National University HCMC (#1 Vietn
 
 My research is business-oriented and spans 3 pillars: Speech-Language Processing, Multimodal LLMs, Medical AI. Most of my papers have been commercialized :moneybag:
 
-I feel grateful to be supervised by: 
+This psychopath (me) feels grateful to be supervised by: 
 
 - Bachelor thesis: [Prof. Hermann Ney](https://scholar.google.de/citations?user=6C8rf-0AAAAJ&hl=de) (world's #1 Speech Recognition researcher, h-index 110), [PD Ralf Schlüter](https://scholar.google.de/citations?user=JmuAC9oAAAAJ&hl=de) (h-index 50)
 - Research in industry: [Prof. Truong-Son Hy](https://scholar.google.com/citations?user=JiKBo6UAAAAJ&hl=en) (UChicago), [Prof. Anh Totti Nguyen](https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en) (Rising star, 10k citations), [PhD Nguyen X. Khanh](https://scholar.google.com/citations?user=SmqouhIAAAAJ) (Princeton & UC Berkeley), [Prof. Thanh Nguyen-Tang](https://scholar.google.co.kr/citations?user=UrTlMiwAAAAJ&hl=en) (Johns Hopkins)
