@@ -7,7 +7,7 @@
 ------------------------
 
 I'm currently cooking my 1st year in MASc Biomedical Engineering at University of Toronto (#1 Canada) and UHN (Canada's #1 Hospital).
-In the past, I was a Valedictorian at Vietnam National University HCMC (#1 Vietnam), then I was screwed at FH Aachen and RWTH Aachen (Germany's #1 FH and #2 TU). My educational background is a mix of Econ, CS and BME.
+In the past, I was a Valedictorian at Vietnam National University HCMC (#1 student of #1 Vietnam's Uni), then I was screwed at FH Aachen and RWTH Aachen (Germany's #1 FH and #2 TU). My education background is a mix of Econ, CS and Med.
 
 My research is business-oriented and spans 3 pillars: Speech-Language Processing, Multimodal LLMs, Medical AI. Most of my papers have been commercialized :moneybag:
 
@@ -26,7 +26,7 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 
 3. My estimated IQ is modestly ~120-130. I'm a proof of Attitude >= Altitude
 
-4. Most people think I'm a highschool student. Thanks mom for giving me a cute face!
+4. Most white people think I'm a highschool student. Thanks mom for giving me a cute face!
 
 5. Since I was 3, I spent all of my childhood imprisoned within an orphanage. So all my life, I just wanna scatter light and love across the world - for the happiness I was never given, for the pain never healed in me :kissing_smiling_eyes:
 
