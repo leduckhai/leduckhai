@@ -84,4 +84,5 @@ Email: duckhai.le@mail.utoronto.ca
 
 -------------------
 
+**[HELP ME]: I'm desperately looking for Vietnamese doctors and AI researchers for our large-scale medical AI projects. Feel free to ping me if you want to join.**
 
