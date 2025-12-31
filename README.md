@@ -1,4 +1,4 @@
-### Guten Tag my comrades👋 I'm Khai
+# Guten Tag my comrades👋 I'm Khai
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=shadow_red&count_private=true&hide=commits,prs,issues,contribs&hide_rank=true" height="100"/> 
@@ -18,27 +18,6 @@ This psychopath (me) feels grateful to be supervised by:
 
 I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toronto - Canada. To be a Canadian next year :innocent:
 
-## 📄 Selected publications
-
-
-**2. VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain**
-   
-**Khai Le-Duc**
-
-[![Venue](https://img.shields.io/badge/LREC--COLING%202024%20(Oral)-FFD1C1?style=flat-square)](#)
-[![arXiv](https://img.shields.io/badge/-arXiv-B31B1B?logo=arxiv&logoColor=white&style=flat)](https://arxiv.org/abs/2404.05659)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/leduckhai/MultiMed/tree/master/VietMed)
-![Stars](https://img.shields.io/github/stars/leduckhai/MultiMed?style=social)
-
-**1. VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain**
-   
-**Khai Le-Duc**
-
-[![Venue](https://img.shields.io/badge/LREC--COLING%202024%20(Oral)-FFD1C1?style=flat-square)](#)
-[![arXiv](https://img.shields.io/badge/-arXiv-B31B1B?logo=arxiv&logoColor=white&style=flat)](https://arxiv.org/abs/2404.05659)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/leduckhai/MultiMed/tree/master/VietMed)
-![Stars](https://img.shields.io/github/stars/leduckhai/MultiMed?style=social)
-
 **<details><summary>Fun facts about me:</summary><p>**
 
 1. I'm proud to be a prisoner at Nguyễn Khuyến Prison.
@@ -56,7 +35,7 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 </p></details>
 
 ---------------------
-### Recent news
+## Recent news
 - 08.2025 - 🔥Paper accepted at EMNLP 2025🔥: [MultiMed-ST: Large-scale Many-to-many Multilingual Medical Speech Translation](https://arxiv.org/abs/2504.03546) - **120 pages** 🔥
 
 <p align="center">
@@ -107,3 +86,24 @@ Email: duckhai.le@mail.utoronto.ca
 
 **[HELP ME]: I'm desperately looking for Vietnamese doctors and AI researchers for our large-scale medical AI projects. Feel free to ping me if you want to join.**
 
+## 📄 Selected publications
+
+(*) Equal contribution
+
+#### 2. Real-time Speech Summarization for Medical Conversations
+   
+**Khai Le-Duc***, Khai-Nguyen Nguyen*, Long Vo-Dang, Truong-Son Hy
+
+[![Venue](https://img.shields.io/badge/Interspeech%202024%20(Oral)-4C9AFF?style=flat-square)](#)
+[![arXiv](https://img.shields.io/badge/-arXiv-B31B1B?logo=arxiv&logoColor=white&style=flat)](https://arxiv.org/abs/2406.15888)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/leduckhai/MultiMed/tree/master/VietMed-Sum)
+![Stars](https://img.shields.io/github/stars/leduckhai/MultiMed?style=social)
+
+#### 1. VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain
+   
+**Khai Le-Duc**
+
+[![Venue](https://img.shields.io/badge/LREC--COLING%202024%20(Oral)-FFD1C1?style=flat-square)](#)
+[![arXiv](https://img.shields.io/badge/-arXiv-B31B1B?logo=arxiv&logoColor=white&style=flat)](https://arxiv.org/abs/2404.05659)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/leduckhai/MultiMed/tree/master/VietMed)
+![Stars](https://img.shields.io/github/stars/leduckhai/MultiMed?style=social)
