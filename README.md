@@ -18,6 +18,27 @@ This psychopath (me) feels grateful to be supervised by:
 
 I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toronto - Canada. To be a Canadian next year :innocent:
 
+## 📄 Selected publications
+
+
+**2. VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain**
+   
+**Khai Le-Duc**
+
+[![Venue](https://img.shields.io/badge/LREC--COLING%202024%20(Oral)-FFD1C1?style=flat-square)](#)
+[![arXiv](https://img.shields.io/badge/-arXiv-B31B1B?logo=arxiv&logoColor=white&style=flat)](https://arxiv.org/abs/2404.05659)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/leduckhai/MultiMed/tree/master/VietMed)
+![Stars](https://img.shields.io/github/stars/leduckhai/MultiMed?style=social)
+
+**1. VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain**
+   
+**Khai Le-Duc**
+
+[![Venue](https://img.shields.io/badge/LREC--COLING%202024%20(Oral)-FFD1C1?style=flat-square)](#)
+[![arXiv](https://img.shields.io/badge/-arXiv-B31B1B?logo=arxiv&logoColor=white&style=flat)](https://arxiv.org/abs/2404.05659)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/leduckhai/MultiMed/tree/master/VietMed)
+![Stars](https://img.shields.io/github/stars/leduckhai/MultiMed?style=social)
+
 **<details><summary>Fun facts about me:</summary><p>**
 
 1. I'm proud to be a prisoner at Nguyễn Khuyến Prison.
