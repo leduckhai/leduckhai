@@ -1,4 +1,4 @@
-# Guten Tag my comrades👋 I'm Khai
+**Guten Tag my comrades👋 I'm Khai**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leduckhai&show_icons=true&theme=shadow_red&count_private=true&hide=commits,prs,issues,contribs&hide_rank=true" height="100"/> 
@@ -103,7 +103,12 @@ Email: duckhai.le@mail.utoronto.ca
    
 **Khai Le-Duc**
 
-[![Venue](https://img.shields.io/badge/LREC--COLING%202024%20(Oral)-FFD1C1?style=flat-square)](#)
+[![Venue](https://img.shields.io/badge/LREC--COLING%202024-FFD1C1?style=flat-square)](#)
+[![Oral](https://img.shields.io/badge/Oral-90EE90?style=flat-square)](#)
 [![arXiv](https://img.shields.io/badge/-arXiv-B31B1B?logo=arxiv&logoColor=white&style=flat)](https://arxiv.org/abs/2404.05659)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/leduckhai/MultiMed/tree/master/VietMed)
 ![Stars](https://img.shields.io/github/stars/leduckhai/MultiMed?style=social)
+
+<p align="left">
+  <img src="teaser/VietMed.PNG" alt="VietMed Paper Preview" width="350"/>
+</p>
