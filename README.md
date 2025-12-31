@@ -82,9 +82,9 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 
 Email: duckhai.le@mail.utoronto.ca
 
--------------------
-
 **[HELP ME]: I'm desperately looking for Vietnamese doctors and AI researchers for our large-scale medical AI projects. Feel free to ping me if you want to join.**
+
+-------------------
 
 ## 📄 Selected publications
 
@@ -101,9 +101,9 @@ Email: duckhai.le@mail.utoronto.ca
 [![Stars](https://img.shields.io/github/stars/leduckhai/MultiMed?style=social)](https://github.com/leduckhai/MultiMed/tree/master/VietMed-Sum)
 
 <details>
-  <summary><em>We release VietMed, the largest public medical ASR dataset, with models that significantly outperform prior state of the art.</em></summary>
+  <summary><em>We propose the first deployable real-time speech summarization system that generates both local and global summaries, improving user experience while reducing computational costs.</em></summary>
   <p align="center">
-    <img src="teaser/VietMed.PNG" width="350"/>
+    <img src="teaser/VietMed-Sum.png" width="350"/>
   </p>
 </details>
 
