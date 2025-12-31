@@ -18,6 +18,11 @@ This psychopath (me) feels grateful to be supervised by:
 
 I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toronto - Canada. To be a Canadian next year :innocent:
 
+<details>
+  <summary><strong><a href="https://github.com/leduckhai/leduckhai/blob/main/publication.md">Selected publications:</a></strong></summary>
+  <p></p>
+</details>
+
 **<details><summary>Fun facts about me:</summary><p>**
 
 1. I'm proud to be a prisoner at Nguyễn Khuyến Prison.
