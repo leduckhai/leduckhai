@@ -94,7 +94,8 @@ Email: duckhai.le@mail.utoronto.ca
    
 **Khai Le-Duc***, Khai-Nguyen Nguyen*, Long Vo-Dang, Truong-Son Hy
 
-[![Venue](https://img.shields.io/badge/Interspeech%202024%20(Oral)-4C9AFF?style=flat-square)](#)
+[![Venue](https://img.shields.io/badge/Interspeech%202024-4C9AFF?style=flat-square)](#)
+[![Oral](https://img.shields.io/badge/Oral-90EE90?style=flat-square)](#)
 [![arXiv](https://img.shields.io/badge/-arXiv-B31B1B?logo=arxiv&logoColor=white&style=flat)](https://arxiv.org/abs/2406.15888)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/leduckhai/MultiMed/tree/master/VietMed-Sum)
 ![Stars](https://img.shields.io/github/stars/leduckhai/MultiMed?style=social)
@@ -104,11 +105,17 @@ Email: duckhai.le@mail.utoronto.ca
 **Khai Le-Duc**
 
 [![Venue](https://img.shields.io/badge/LREC--COLING%202024-FFD1C1?style=flat-square)](#)
-[![Oral](https://img.shields.io/badge/Oral-90EE90?style=flat-square)](#)
-[![arXiv](https://img.shields.io/badge/-arXiv-B31B1B?logo=arxiv&logoColor=white&style=flat)](https://arxiv.org/abs/2404.05659)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat)](https://github.com/leduckhai/MultiMed/tree/master/VietMed)
-![Stars](https://img.shields.io/github/stars/leduckhai/MultiMed?style=social)
+[![Oral](https://img.shields.io/badge/Oral-90EE90?style=flat-square)](#) 
+[![arXiv](https://img.shields.io/badge/arXiv%3A2404.05659-B31B1B?logo=arxiv&logoColor=white&style=flat)](https://arxiv.org/abs/2404.05659)
+[![GitHub VietMed](https://img.shields.io/badge/GitHub-VietMed-white?logo=github&logoColor=white&style=flat&labelColor=181717)](https://github.com/leduckhai/MultiMed/tree/master/VietMed)
+[![Stars](https://img.shields.io/github/stars/leduckhai/MultiMed?style=social)](https://github.com/leduckhai/MultiMed/tree/master/VietMed)
 
-<p align="left">
-  <img src="teaser/VietMed.PNG" alt="VietMed Paper Preview" width="350"/>
-</p>
+<details>
+  <summary><em>Summary</em></summary>
+  <p><em>We release VietMed, the largest public medical ASR dataset, with models that significantly outperform prior state of the art.</em></p>
+  <p align="left">
+    <img src="teaser/VietMed.PNG" width="350"/>
+  </p>
+</details>
+
+
