@@ -101,7 +101,7 @@ Email: duckhai.le@mail.utoronto.ca
 ![Stars](https://img.shields.io/github/stars/leduckhai/MultiMed?style=social)
 
 #### 1. VietMed: A Dataset and Benchmark for Automatic Speech Recognition of Vietnamese in the Medical Domain
-   
+
 **Khai Le-Duc**
 
 [![Venue](https://img.shields.io/badge/LREC--COLING%202024-FFD1C1?style=flat-square)](#)
@@ -117,5 +117,4 @@ Email: duckhai.le@mail.utoronto.ca
     <img src="teaser/VietMed.PNG" width="350"/>
   </p>
 </details>
-
 
