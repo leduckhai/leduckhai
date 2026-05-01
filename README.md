@@ -27,8 +27,9 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 
 1. I'm proud to be a prisoner at Nguyễn Khuyến Prison.
 2. Most white people think I'm a highschool student. Thanks mom for giving me a cute face!
-3. Since I was 3, I spent all of my childhood imprisoned within an orphanage. So all my life, I just wanna scatter light and love across the world - for the happiness I was never given, for the pain never healed in me :kissing_smiling_eyes:
-4. Try'na neva lie, neva get angry, neva hurt anybody.
+3. Since I was 3, I spent all of my childhood imprisoned within a Catholic orphanage. So all my life, I just wanna scatter light and love across the world - for the happiness I was never given, for the pain never healed in me :kissing_smiling_eyes:
+4. Crushed by not being able to stand beside the only girl I love, I spent all of 2025 in quiet retreat at [Linh Sơn Temple](https://share.google/DA8BL6thSJqk8LLWa) - and came away with a stark realization: We humans are nothing more than lines of code in a simulated world shaped by God the Father.
+5. Try'na neva lie, neva get angry, neva hurt anybody.
 
 </p></details>
 
