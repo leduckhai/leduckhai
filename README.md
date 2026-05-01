@@ -26,16 +26,9 @@ I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam,
 **<details><summary>Fun facts about me:</summary><p>**
 
 1. I'm proud to be a prisoner at Nguyễn Khuyến Prison.
-
-2. I once loved a girl for 10 years but our happiness together lasted only 20 months :cry: and she's the only relationship I had - she was in top X of Miss Vietnam (Hoa hậu Việt Nam). Then mama forced me to marry a Miss Business Vietnam (Hoa hậu Doanh nhân Việt Nam) but I escaped just a few days before the wedding :joy: Hope to know what it truly means to love and be loved in the near future :smiling_face_with_three_hearts:.
-
-3. My estimated IQ is modestly ~120-130. I'm a proof of Attitude >= Altitude
-
-4. Most white people think I'm a highschool student. Thanks mom for giving me a cute face!
-
-5. Since I was 3, I spent all of my childhood imprisoned within an orphanage. So all my life, I just wanna scatter light and love across the world - for the happiness I was never given, for the pain never healed in me :kissing_smiling_eyes:
-
-6. Try'na neva lie, neva get angry, neva hurt anybody.
+2. Most white people think I'm a highschool student. Thanks mom for giving me a cute face!
+3. Since I was 3, I spent all of my childhood imprisoned within an orphanage. So all my life, I just wanna scatter light and love across the world - for the happiness I was never given, for the pain never healed in me :kissing_smiling_eyes:
+4. Try'na neva lie, neva get angry, neva hurt anybody.
 
 </p></details>
 
