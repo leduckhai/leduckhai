@@ -16,7 +16,7 @@ This psychopath (me) feels grateful to be supervised by:
 - Bachelor thesis: [Prof. Hermann Ney](https://scholar.google.de/citations?user=6C8rf-0AAAAJ&hl=de) (h-index 110), [PD Ralf Schlüter](https://scholar.google.de/citations?user=JmuAC9oAAAAJ&hl=de) (h-index 50)
 - Research in industry: [Prof. Truong-Son Hy](https://scholar.google.com/citations?user=JiKBo6UAAAAJ&hl=en) (UChicago), [Prof. Anh Totti Nguyen](https://scholar.google.com/citations?user=EQw8d9AAAAAJ&hl=en) (Auburn), [PhD Nguyen X. Khanh](https://scholar.google.com/citations?user=SmqouhIAAAAJ) (Princeton & UC Berkeley), [Prof. Thanh Nguyen-Tang](https://scholar.google.co.kr/citations?user=UrTlMiwAAAAJ&hl=en) (Johns Hopkins)
 
-I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toronto - Canada. To be a Canadian next year :innocent:
+I speak Vietnamese, English, German (C1). I lived in Ho Chi Minh City - Vietnam, spent 7 years in Germany, and now in Toronto - Canada :innocent:
 
 <details>
   <summary><strong><a href="https://github.com/leduckhai/leduckhai/blob/main/publication.md">Selected publications:</a></strong></summary>
