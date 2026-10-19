@@ -25,7 +25,7 @@ Just a little dude wanna heal the world ❤️‍🩹
 #### 🚀 Airstrike me at:
 [<img align="left" alt="Facebook" src="https://github.com/leduckhai/leduckhai/blob/main/icons/facebook-icon.png" width="30"/>](https://www.facebook.com/techmonzter/)
 [<img align="left" alt="Instagram" src="https://github.com/leduckhai/leduckhai/blob/main/icons/instagram-icon.jfif" width="30"/>](https://www.instagram.com/_techmonzter_/)
-[<img align="left" alt="X" src="https://github.com/leduckhai/leduckhai/blob/main/icons/x-icon.png" width="30"/>](https://twitter.com/_leduckhai_)
+[<img align="left" alt="X" src="https://github.com/leduckhai/leduckhai/blob/main/icons/x-icon.png" width="30"/>](https://twitter.com/khaileduc)
 [<img align="left" alt="LinkedIn" src="https://github.com/leduckhai/leduckhai/blob/main/icons/linkedin-icon.png" width="30"/>](https://www.linkedin.com/in/khaileduc/)
 [<img align="left" alt="GoogleScholar" src="https://github.com/leduckhai/leduckhai/blob/main/icons/google-scholar-icon.png" width="30"/>](https://scholar.google.de/citations?user=DfAzEe0AAAAJ&hl=en)
 [<img align="left" alt="MyCV" src="https://github.com/leduckhai/leduckhai/blob/main/icons/my-cv-icon.png" width="30"/>](https://drive.google.com/file/d/1iAh1VNEjDvN-QShFfAsHSabPS8zZro1V/view?usp=drive_link)
